@@ -16,6 +16,8 @@
           flags: 2
         - name: Medium
           value: 500
+        - name: SemiBold
+          value: 600
         - name: Bold
           value: 700
       - name: Italic
@@ -35,6 +37,8 @@
           flags: 2
         - name: Medium
           value: 500
+        - name: SemiBold
+          value: 600
         - name: Bold
           value: 700
       - name: Italic
